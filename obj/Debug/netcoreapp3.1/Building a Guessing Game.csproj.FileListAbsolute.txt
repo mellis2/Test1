@@ -1,0 +1,11 @@
+C:\Users\mellis2\source\repos\Building a Guessing Game\bin\Debug\netcoreapp3.1\Building a Guessing Game.exe
+C:\Users\mellis2\source\repos\Building a Guessing Game\bin\Debug\netcoreapp3.1\Building a Guessing Game.deps.json
+C:\Users\mellis2\source\repos\Building a Guessing Game\bin\Debug\netcoreapp3.1\Building a Guessing Game.runtimeconfig.json
+C:\Users\mellis2\source\repos\Building a Guessing Game\bin\Debug\netcoreapp3.1\Building a Guessing Game.runtimeconfig.dev.json
+C:\Users\mellis2\source\repos\Building a Guessing Game\bin\Debug\netcoreapp3.1\Building a Guessing Game.dll
+C:\Users\mellis2\source\repos\Building a Guessing Game\bin\Debug\netcoreapp3.1\Building a Guessing Game.pdb
+C:\Users\mellis2\source\repos\Building a Guessing Game\obj\Debug\netcoreapp3.1\Building a Guessing Game.csprojAssemblyReference.cache
+C:\Users\mellis2\source\repos\Building a Guessing Game\obj\Debug\netcoreapp3.1\Building a Guessing Game.AssemblyInfoInputs.cache
+C:\Users\mellis2\source\repos\Building a Guessing Game\obj\Debug\netcoreapp3.1\Building a Guessing Game.AssemblyInfo.cs
+C:\Users\mellis2\source\repos\Building a Guessing Game\obj\Debug\netcoreapp3.1\Building a Guessing Game.dll
+C:\Users\mellis2\source\repos\Building a Guessing Game\obj\Debug\netcoreapp3.1\Building a Guessing Game.pdb
